@@ -1,5 +1,5 @@
 #App Preview:
-![](covid-19.JPG)
+![](src/images/covid-19.jpg)
 
 
 #Packages:
