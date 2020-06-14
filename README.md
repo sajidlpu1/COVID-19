@@ -1,3 +1,7 @@
+#App Preview:
+![](covid-19.JPG)
+
+
 #Packages:
 axios --> To make GET Requests to the API
 react-chartjs-2 --> To make beautiful reat charts 1st install --> npm i --save chart.js
